@@ -10,3 +10,16 @@
   background: greenyellow;
   color: rgba(0, 0, 0, 0.671);
 }
+
+.memeCounterDiv {
+  /* margin: auto; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+}
+
+.memeCount {
+  color: yellow;
+  margin-left: .5rem;
+}

@@ -5,8 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url("./bg.jpg");
+  background: url("./bg.jpg") no-repeat center/cover;
   color: white;
+  height: 100vh;
 }
 
 code {
@@ -35,6 +36,8 @@ img {
 }
 input {
   box-sizing: border-box;
+  outline: none;
+  border: none;
   display: block;
   padding: 10px;
   width: 350px;

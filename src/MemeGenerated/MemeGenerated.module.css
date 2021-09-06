@@ -1,0 +1,17 @@
+.homeBtn {
+  background: greenyellow;
+  color: grey;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.copyBtn {
+  background: blueviolet;
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.container {
+  margin-top: 50px;
+}
