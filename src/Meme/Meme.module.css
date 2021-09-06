@@ -1,0 +1,12 @@
+.container {
+  margin-top: 50px;
+}
+
+.btn {
+  background: blueviolet;
+}
+
+.generate {
+  background: greenyellow;
+  color: rgba(0, 0, 0, 0.671);
+}
